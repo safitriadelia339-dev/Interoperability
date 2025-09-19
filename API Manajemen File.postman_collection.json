@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "d4917648-7b17-439b-866b-d79535259067",
+		"name": "API Manajemen File",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48009069",
+		"_collection_link": "https://adheliafeb-1403185.postman.co/workspace/Adhelia's-Workspace~e034edbe-1208-4490-81d4-c1b6bb2f5d3c/collection/48009069-d4917648-7b17-439b-866b-d79535259067?action=share&source=collection_link&creator=48009069"
+	},
+	"item": [
+		{
+			"name": "Status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Movies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Movies By Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
